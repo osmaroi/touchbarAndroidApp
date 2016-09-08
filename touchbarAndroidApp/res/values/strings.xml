@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TouchbarActivity!</string>
+    <string name="app_name">Touchbar</string>
+    <string name="principal_descripcion">Una nueva forma de salir.</string>
+	<string name="principal_boton">Escanear mesa</string>
+	<string name="principal_titulo">TouchBar</string>
+
+</resources>

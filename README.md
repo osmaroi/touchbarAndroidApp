@@ -40,7 +40,7 @@ Se puede acceder a traves de este [enlace](https://riunet.upv.es/handle/10251/17
 
 
 #<a name="team-members"></a>Team Members
-* "Oscar Masia Roig"<osmaroimail@gmail.com>
+* Oscar Masia Roig <osmaroimail@gmail.com>
 
 
 

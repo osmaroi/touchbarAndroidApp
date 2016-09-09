@@ -41,6 +41,8 @@ La aplicacion se realizó en 2011-2012 como proyecto final de carrera de Ingenie
 
 Se puede acceder a traves de este [enlace](https://riunet.upv.es/handle/10251/17624): https://riunet.upv.es/handle/10251/17624
 
+A pesar de que en 2011 habia poca competencia en este sector, si lo comparamos con la actulidad, el mercado aún no estaba preparado. Habia que acostumbrar al usuario a dejar de pedir directamente al camarero, las costrumbres son muy dificiles de cambira, aun así, ya existian algun otro servicio similar en otros paises, pero con el paso del tiempo, he visto que no han conseguido consolidarse. Ya hace algun tiempo que grandes compañias como Macdonals estan introduciendo TPVs para ser usados directamente por sus clientes. Creo que es el momento de aprovechar los esfuerzos que estas compañias realizan formando a sus clientes para introducir este servicio.   
+
 
 #<a name="team-members"></a>Team Members
 * Oscar Masia Roig <<osmaroimail@gmail.com>>
